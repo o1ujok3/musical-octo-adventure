@@ -23,5 +23,3 @@ cd musical-octo-adventure
 
 ###Deployment
 This project has been deployed using Github Pages visit at https://o1ujok3.github.io/musical-octo-adventure/
-
-

@@ -22,4 +22,6 @@ git clone https://github.com/o1ujok3/musical-octo-adventure.git
 cd musical-octo-adventure
 
 ###Deployment
-This project has been deployed using Github Pages.
+This project has been deployed using Github Pages visit at https://o1ujok3.github.io/musical-octo-adventure/
+
+

@@ -17,11 +17,15 @@ From your command line:
 
 # Clone this repository
 
+```bash
 git clone https://github.com/o1ujok3/musical-octo-adventure.git
+```
 
 # Go into the repository
 
+```bash
 cd musical-octo-adventure
+```
 
 ### Deployment
 

@@ -1,8 +1,10 @@
-#About the challenge
+# About the challenge
+
 To satisfy the requirement of completion for week 1.
 HTML and CSS has been refactored to meet web accessibility standards.
 
-##Getting started
+## Getting started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
@@ -21,5 +23,6 @@ git clone https://github.com/o1ujok3/musical-octo-adventure.git
 
 cd musical-octo-adventure
 
-###Deployment
+### Deployment
+
 This project has been deployed using Github Pages visit at https://o1ujok3.github.io/musical-octo-adventure/
